@@ -3,7 +3,7 @@ An index of resources based on the Project Drawdown book's plan to reverse globa
 
 ## Energy
 ### Wind Turbines
-
+* [AWEA Wind Industry Map](http://gis.awea.org/arcgisportal/apps/webappviewer/index.html?id=eed1ec3b624742f8b18280e6aa73e8ec)
 * https://homesteading.com/diy-wind-turbine-generators-living-off-the-grid/
 * https://www.motherearthnews.com/renewable-energy/wind-energy/diy-wind-turbine-zm0z17amz
 * https://www.youtube.com/watch?v=qSWKoPGfx3w
