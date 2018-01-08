@@ -21,6 +21,7 @@ An index of resources based on the Project Drawdown book's plan to reverse globa
 * http://greenterrafirma.com/diy-vawt.html
 
 ### Microgrids
+* https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4
 
 ### Geothermal
 #### DIY Tutorials
