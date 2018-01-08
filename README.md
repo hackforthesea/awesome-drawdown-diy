@@ -14,6 +14,11 @@ An index of resources based on the Project Drawdown book's plan to reverse globa
 * http://www.the-diy-life.com/homemade-vertical-axis-wind-turbine-made-from-household-scrap/
 * https://waldenpublishing.com/build-diy-wind-turbine/
 * https://lemonslide.com/diy-wind-turbine/
+* http://www.greenterrafirma.com/DIY_Wind_Turbine.html
+* http://www.windmills-for-electricity-plans.com/diy-wind-turbine.html
+* http://www.greenlivingkit.com/diywind.pdf
+* https://www.newphysicist.com/diy-vertical-axis-wind-turbine/
+* http://greenterrafirma.com/diy-vawt.html
 
 ### Microgrids
 
